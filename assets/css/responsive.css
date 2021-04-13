@@ -1,0 +1,47 @@
+@media only screen and (min-width: 992px) and (max-width: 1500px) {
+}
+
+/* =========================================================================== */
+/* Large Device lg */
+/* =========================================================================== */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* =========================================================================== */
+/* Medium Device md */
+/* =========================================================================== */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .page-title {
+    font-size: 45px;
+  }
+
+  .button {
+    font-size: 14px;
+  }
+}
+
+/* @media only screen and (min-width: 768px) and (max-width: 810px) {
+
+
+} */
+
+/* =========================================================================== */
+/* Medium To Extra Small Device */
+/* =========================================================================== */
+@media only screen and (max-width: 767px) {
+  .page-title {
+    font-size: 45px;
+  }
+
+  .button {
+    font-size: 14px;
+  }
+}
+
+/* Small Device sm */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+}
+
+/* Extra Small device */
+@media only screen and (max-width: 575px) {
+}
